@@ -1,5 +1,5 @@
-(source gnu)
-(source melpa)
+(source "gnu"   "http://elpa.emacs-china.org/gnu/")
+(source "melpa" "http://elpa.emacs-china.org/melpa/")
 
 (package-file "cask.el")
 
